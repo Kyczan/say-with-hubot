@@ -1,0 +1,19 @@
+{
+  "name": "say-with-hubot",
+  "version": "1.0.0",
+  "description": "Allows to you write anonymously via hubot.",
+  "main": "say-with-hubot.coffee",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kyczan/say-with-hubot.git"
+  },
+  "keywords": [
+    "hubot"
+  ],
+  "author": "Krystian Kowal <krystian@kowal.pro>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kyczan/say-with-hubot/issues"
+  },
+  "homepage": "https://github.com/Kyczan/say-with-hubot#readme"
+}
