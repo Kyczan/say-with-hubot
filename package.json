@@ -1,6 +1,6 @@
 {
   "name": "say-with-hubot",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Allows to you write anonymously via hubot.",
   "main": "say-with-hubot.coffee",
   "repository": {
